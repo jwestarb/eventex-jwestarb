@@ -3,3 +3,5 @@ python:
   - "3.5"
 install: "pip install -r requirements.txt"
 script: python manage.py test
+env:
+  - SECRET_KEY=-@%pw+4yjjq-2!=fysopkh&n%w6rh1qvdvg4g$(e4q^h$7$6z0
