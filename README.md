@@ -3,6 +3,7 @@
 Sistema de Eventos encomendado pela Morena.
 
 [![Build Status](https://travis-ci.org/jwestarb/eventex-jwestarb.svg?branch=master)](https://travis-ci.org/jwestarb/eventex-jwestarb) 
+[![Code Health](https://landscape.io/github/jwestarb/eventex-jwestarb/master/landscape.svg?style=flat)](https://landscape.io/github/jwestarb/eventex-jwestarb/master)
 [![codecov.io](https://codecov.io/github/jwestarb/eventex-jwestarb/coverage.svg?branch=master)](https://codecov.io/github/jwestarb/eventex-jwestarb?branch=master)
 
 ## Como desenvolver?
