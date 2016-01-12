@@ -6,3 +6,6 @@
 *pyc
 __pycache__
 staticfiles
+notes.txt
+.coverage
+.ipynb_checkpoints/
