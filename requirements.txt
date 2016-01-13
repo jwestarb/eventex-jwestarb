@@ -6,3 +6,4 @@ psycopg2==2.6.1
 python-decouple==3.0
 static3==0.6.1
 coverage==4.0.3
+django-extensions==1.6.1
