@@ -1,6 +1,6 @@
 from django.db import models
 from django.shortcuts import resolve_url as r
-from eventex.core.managers import EmailContactManager, PhoneContactManager, KindContactManager
+from eventex.core.managers import KindContactManager
 
 
 class Speaker(models.Model):
@@ -34,8 +34,6 @@ class Contact(models.Model):
     value = models.CharField('valor', max_length=255)
 
     objects = KindContactManager()
-    emails = EmailContactManager()
-    phones = PhoneContactManager()
 
     class Meta:
         verbose_name = 'contato'
